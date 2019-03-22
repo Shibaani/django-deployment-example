@@ -25,7 +25,7 @@ SECRET_KEY = 'zadp9ybz&1dzmbsmb*_xsxh)t9c3(i9pv+9!-p(htmb(p4i&a1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [shibz.pythonanywhere.com]
+ALLOWED_HOSTS = ['shibz.pythonanywhere.com']
 
 
 # Application definition
